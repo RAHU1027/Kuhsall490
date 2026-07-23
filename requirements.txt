@@ -1,4 +1,10 @@
-pyrogram==2.0.106
-tgcrypto==1.2.5
-Flask==3.0.0
-python-3.11.0
+aiogram
+aiohttp
+requests
+pydantic
+motor
+pymongo
+user-agent
+pyTelegramBotAPI
+requests
+flask
