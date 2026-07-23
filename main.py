@@ -10,8 +10,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # --- CONFIGURATION ---
 BOT_TOKEN = "8860437689:AAF--R4NwAje0xxdFLCcLX2lwGdu5Gp2YSk"
-API_ID = 29500000  # Apna Telegram API_ID yahan dalein (my.telegram.org se milega)
-API_HASH = "aapka_telegram_api_hash"  # Apna API_HASH yahan dalein
+API_ID = 21552435  # Apna Telegram API_ID yahan dalein (my.telegram.org se milega)
+API_HASH = "5b108bd2fdd31c0c34bc65f24a5216a0"  # Apna API_HASH yahan dalein
 MONGO_URI = "mongodb+srv://Elevenyts:Elevenyts@cluster0.vuyc1u2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # --- MONGODB CONNECTION ---
